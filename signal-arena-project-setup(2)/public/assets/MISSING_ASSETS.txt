@@ -1,0 +1,20 @@
+MISSING_ASSET REPORT — Signal Arena
+Source repo: https://github.com/hudyakovictor/assets/tree/main
+
+Archives found in repo but NOT extractable in the build environment:
+  topbar.zip
+  skill-card-icons.zip
+  assets.zip
+
+Expected extracted files (exact names) — drop them here and the app picks them up automatically:
+
+  public/assets/topbar/topbar.html          ← from topbar.zip  (visual source of truth for SHARED_TOP_BAR_LOCKED)
+  public/assets/topbar/lightning.svg        ← from topbar.zip
+  public/assets/topbar/star.svg             ← from topbar.zip
+  public/assets/topbar/coin.svg             ← from topbar.zip
+  public/assets/topbar/bell.svg             ← from topbar.zip
+  public/assets/topbar/gear.svg             ← from topbar.zip
+
+  public/assets/skill-cards/c01.svg … c40.svg   ← from skill-card-icons.zip
+
+Until present, every slot renders a dashed MISSING marker (never an emoji, never a substitute icon).

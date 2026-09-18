@@ -1,0 +1,320 @@
+{
+  "generatedFor": "Signal Arena consolidation",
+  "files": [
+    {
+      "path": "01-canonical-workbench/index.html",
+      "bytes": 1061,
+      "sha256": "dcc265ffac995c218398d84ac541047770e577c6da6b2dfc1272786723246dd5"
+    },
+    {
+      "path": "01-canonical-workbench/package-lock.json",
+      "bytes": 90021,
+      "sha256": "6502bedd7ecf5dce42cf73bd414b6dcb7561bb9211dd3afd2b55f5b514caef97"
+    },
+    {
+      "path": "01-canonical-workbench/package.json",
+      "bytes": 653,
+      "sha256": "159e27b7a615c80cbdc7ca57a10433c5daa13167b49b48cfb179e1ca997b5d73"
+    },
+    {
+      "path": "01-canonical-workbench/src/App.tsx",
+      "bytes": 11287,
+      "sha256": "982ef2623ecfca52222625895b5caba63172d4fcf12865954d981c2be23f4f0a"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/BottomNavBar.tsx",
+      "bytes": 3725,
+      "sha256": "02a74752cfb0c71052f61a0a89050d3995a831e505f5b063ee2c93204dc28cc9"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/DecisionButtonsGrid.tsx",
+      "bytes": 4100,
+      "sha256": "ddd7391339510e171690ca1f091adcda437177554b98f5750cfe1d362f00d782"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/RevealModal.tsx",
+      "bytes": 4618,
+      "sha256": "630e1733eba288903c4cf4c58b74bfd676a9177c463711343102248abfd5cf42"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/SkillCardsRow.tsx",
+      "bytes": 4914,
+      "sha256": "0e0e99bf0bd6888dbe09305ad62d9733f6026567c8d45cc2d4ee6c4ce2ee17dc"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/StudioSidebar.tsx",
+      "bytes": 13305,
+      "sha256": "476c86cc009ce39948dea2b9c7c786a4d48d6636bf6535b09419020100a15f1a"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/TerminalWindow.tsx",
+      "bytes": 23322,
+      "sha256": "734ddd14718ba5eafd6cdb995059231d13b25b9447c47d3afd04740208dbfccf"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/TopBar.tsx",
+      "bytes": 11203,
+      "sha256": "1564f2f8307cdf469a617a56b1c6d6960d94213fd17928e78e3f405f025798bb"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/TopBarNew.tsx",
+      "bytes": 3142,
+      "sha256": "cbbb37e96f368d6eef9a177cc651bec0d5d87d7ff029bc9dbbeafcb2ec2d23e3"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/bits.tsx",
+      "bytes": 14459,
+      "sha256": "3db0c2a6cfbb746a5f0b8147cc33fb09f1fd45f1b1152ce3c4eedde4e1efe3e2"
+    },
+    {
+      "path": "01-canonical-workbench/src/components/icons.tsx",
+      "bytes": 31179,
+      "sha256": "60547bb3c0575d062c90c5de7abf429f04538fad319827bb7a963a9d25901e67"
+    },
+    {
+      "path": "01-canonical-workbench/src/index.css",
+      "bytes": 16302,
+      "sha256": "9592509e987277a265e7c940950909c2034caef610d413aaf784c92108e4346e"
+    },
+    {
+      "path": "01-canonical-workbench/src/lib/assets.tsx",
+      "bytes": 12108,
+      "sha256": "78d9c4a40c20c5811360f1dbe9e6cb53e80eb1b76e935c579064b742e57c47fb"
+    },
+    {
+      "path": "01-canonical-workbench/src/lib/pages.ts",
+      "bytes": 34513,
+      "sha256": "69181a413e8692c38d8b5e79353d3f708b206bc6795d3ddcaf4668bb7348c811"
+    },
+    {
+      "path": "01-canonical-workbench/src/main.tsx",
+      "bytes": 230,
+      "sha256": "f268dc44f71240012de0cfb1569d8ac906265cccd45eb3a99059c1a663d2f830"
+    },
+    {
+      "path": "01-canonical-workbench/src/panels/Panels.tsx",
+      "bytes": 34729,
+      "sha256": "b5cd8ce97de94b9d550ae5eddbe98e2719ac7b5db80226714ed70978d56ce0ab"
+    },
+    {
+      "path": "01-canonical-workbench/src/panels/Report.tsx",
+      "bytes": 14335,
+      "sha256": "223516a20713036982f8e4b02575b0293a2c5c848a2b57791231f796e23ac567"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/AcademyScreen.tsx",
+      "bytes": 6775,
+      "sha256": "a8208973c1f5a4d07022027d2390fd8786d1b5e5d08bf57a1d6d66b50ab286e4"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/ArenaGameScreen.tsx",
+      "bytes": 3826,
+      "sha256": "a2fc9f5d425fce8eec8bd51f92f50596baa36e5b06a2800719178542101bb918"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/CollectionScreen.tsx",
+      "bytes": 9389,
+      "sha256": "329852e7e5ae1b0fe0056bdd0ee5529b2a632060272c376662b53505c65a5951"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/MoreScreen.tsx",
+      "bytes": 4811,
+      "sha256": "855581666fcceb60597269ffa39235551b154afe7f97e8a7dea7bb03ec996c30"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/Screen.tsx",
+      "bytes": 53055,
+      "sha256": "3d3a14394a2614d36cbd50113d83f7ae5e4a4e6b32b8b53ad1abe81f5942f463"
+    },
+    {
+      "path": "01-canonical-workbench/src/screens/TournamentsScreen.tsx",
+      "bytes": 10300,
+      "sha256": "0c3166bd7f8531ad6ff571b442ecc8459ba2b4698f48c985f959e6306abf3339"
+    },
+    {
+      "path": "01-canonical-workbench/src/utils/audio.ts",
+      "bytes": 4363,
+      "sha256": "79d274239015e03f5be7c257e37f4c166609fb714d550155b4de612031911e19"
+    },
+    {
+      "path": "01-canonical-workbench/src/utils/cn.ts",
+      "bytes": 169,
+      "sha256": "d1f1e0d62cb8d8d1e04c26e14de842d8a151f75812d81b046c65b5d1fe8e4b27"
+    },
+    {
+      "path": "01-canonical-workbench/tsconfig.json",
+      "bytes": 681,
+      "sha256": "2a760f56fa49b96935783a2c3b4ce63d67e4547fdace88c4f4361a0c4fc10848"
+    },
+    {
+      "path": "01-canonical-workbench/vite.config.ts",
+      "bytes": 538,
+      "sha256": "18dd184b9091357fe23797ee047138e6af7663b59697ac45d6c3c219522db9fa"
+    },
+    {
+      "path": "02-audit-reference/docs/mvp-requirements-audit.md",
+      "bytes": 7969,
+      "sha256": "fad110ed558943a5702259fb96a025fde15693050ec754f09e62456f8a3846c0"
+    },
+    {
+      "path": "02-audit-reference/docs/ui-audit-50.md",
+      "bytes": 7769,
+      "sha256": "274d77a27035493e7f9e8449f3a0ba2c76ae050b7a0ad7515aa073e4268b8c3e"
+    },
+    {
+      "path": "02-audit-reference/docs/ui-ux-audit-100.md",
+      "bytes": 9511,
+      "sha256": "f4c1c07307e07869219f4c370c33439dbe7157f13924131c14507ca5b94d3909"
+    },
+    {
+      "path": "03-registry-reference/src/components/MvpScreen.tsx",
+      "bytes": 15895,
+      "sha256": "11cc4b4f2c4f6c4ea2de779295ee0e0dca46a64e6908bfdb56c715d6e29a43c0"
+    },
+    {
+      "path": "03-registry-reference/src/components/Shell.tsx",
+      "bytes": 5805,
+      "sha256": "61add58556e1135e7b6bdc0f71475efd107f5a34ae67f6c3d238a0eaae8651e4"
+    },
+    {
+      "path": "03-registry-reference/src/components/TopBar.tsx",
+      "bytes": 5076,
+      "sha256": "9d1aa932aba431955ae4c7ffa384a9bc224f5b0983fcf0469ba4036877883fc5"
+    },
+    {
+      "path": "03-registry-reference/src/data/assets.ts",
+      "bytes": 10073,
+      "sha256": "fd4289e902514cdc35eed8e5c5dc623b0806286f8f1943d2f505ecae1a7d935f"
+    },
+    {
+      "path": "03-registry-reference/src/data/flow.ts",
+      "bytes": 2558,
+      "sha256": "9da1ca12d29692ad85b5ea7f153df74b050f1bb6b90841c21e067f74178d81b0"
+    },
+    {
+      "path": "03-registry-reference/src/data/pages.ts",
+      "bytes": 12630,
+      "sha256": "d94d55259bfc36a8e1fc74220cd561fad1d8764e1cdfc423b2e958019d75fb6f"
+    },
+    {
+      "path": "03-registry-reference/src/motion/tokens.ts",
+      "bytes": 1445,
+      "sha256": "26180861e909377930a65ff5c9b2e4926c4ab0df9082ecdcdb12c7c513866590"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/Game.tsx",
+      "bytes": 18683,
+      "sha256": "7eae05eff54146ac75a2e934b5049a0e181444d5df4fe688bb81551c8817d9d4"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/chart.tsx",
+      "bytes": 16758,
+      "sha256": "ccd542d307076c05eea955f28ffa0e335513e0f7bcb9988b91eb747f86f293e8"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/content.ts",
+      "bytes": 33050,
+      "sha256": "47a31a4fcb11383b3227e01b9c5b9a161179a4591fc6e9ec925843d9a293b496"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/facts.tsx",
+      "bytes": 9514,
+      "sha256": "721d33c44f7a19db00758a30d6d2075b704af9c1c9a83f44b911b6c69218ef8f"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/frame.tsx",
+      "bytes": 18867,
+      "sha256": "d04708c4fb99f6227e0c3ccec83b27436a5985e63e482b91e5c9cf7ecff23124"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/note.tsx",
+      "bytes": 4689,
+      "sha256": "9900a7836971f69a66fdca27e4bbca38c11e6a3a573ea639f90066a9ed6055b9"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/screens-core.tsx",
+      "bytes": 47170,
+      "sha256": "dc302fcfaa135a384f1da38a4995d55ad109f8dc5efd338a94b86f0c1b33a87a"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/screens-meta.tsx",
+      "bytes": 34792,
+      "sha256": "8d47dcead2082e0e3633545f4d644ce144d515fbd84e070208952f48dc524144"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/sfx.ts",
+      "bytes": 2786,
+      "sha256": "177e5f760ab8d796b3527cf1cc0353ddae01361490edeb79169cd23fbd076c20"
+    },
+    {
+      "path": "04-gameplay-reference/src/game/state.ts",
+      "bytes": 2831,
+      "sha256": "043fdee975a1e707f91127c5b37b487dc3c6ba651c2bf11e97f554c81adb1621"
+    },
+    {
+      "path": "04-gameplay-reference/src/icons/skill.tsx",
+      "bytes": 20006,
+      "sha256": "734e6491345a8fbe0e9e83f03f7598cff71bf5d414b8a4ebdf9cf7864bee797d"
+    },
+    {
+      "path": "04-gameplay-reference/src/icons/ui.tsx",
+      "bytes": 23786,
+      "sha256": "878f08b5fb5c89d653e1c9226e7d46e933a4af3e4d84bfda978864dfbf8779ff"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/components/RepoIcons.tsx",
+      "bytes": 16741,
+      "sha256": "2cfea0fb6688f8ce7d625cedc597e021ba4836d0bf1184108f4f0756a7832173"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/components/SkillIcon.tsx",
+      "bytes": 3931,
+      "sha256": "442f4d2b3e1264a4d6fdecffdbef4adcfada6a76d1009f16b11f5cdda1cb2adc"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/components/TopBar.tsx",
+      "bytes": 7280,
+      "sha256": "aafc81e5aa3b53017511c991e11b2ab1487d12a6a5213c699b9987c82d4f3e75"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/data/pages.ts",
+      "bytes": 13148,
+      "sha256": "dc27e8280e5548ada30c6efd02853e10affb2234650458f5d051064fa0c88218"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/data/remoteAssets.ts",
+      "bytes": 7342,
+      "sha256": "c8883ec3c603866df647b238e01695cad372940208142264c4b641858227acd3"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/screens/Report.tsx",
+      "bytes": 13035,
+      "sha256": "fa1071824e340e6931db0730432adab7cd10fc94cc6c2559ba62c016e0b96db6"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/screens/pages1.tsx",
+      "bytes": 53782,
+      "sha256": "59fc7452eea516ee8b4c976c9b0be6d6838fa47e9609765acf097720680e162f"
+    },
+    {
+      "path": "05-alternative-workbench-reference/src/screens/pages2.tsx",
+      "bytes": 39244,
+      "sha256": "c6dd2396a0cd49300f354e9f6217e570bbd3ba2236ddb2b23330c08801c82b0e"
+    },
+    {
+      "path": "06-external-assets-required/ASSETS_TO_FETCH.md",
+      "bytes": 824,
+      "sha256": "7c15c0269fabbb65437dae6422d2d0e62229ce3e5aac8529c0879457f29989ce"
+    },
+    {
+      "path": "50_POINT_READINESS_AUDIT_RU.md",
+      "bytes": 15514,
+      "sha256": "85232ed3174ae6b4805dcba30eb86e15151121bc1a3812b9007b65a04b258909"
+    },
+    {
+      "path": "README_RU.md",
+      "bytes": 1367,
+      "sha256": "322f8dcffbc02911329812120fd614d942c82c5c1c1fdd93d3384ec15b21e9de"
+    }
+  ]
+}

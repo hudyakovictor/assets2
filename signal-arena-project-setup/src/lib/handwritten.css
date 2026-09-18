@@ -1,0 +1,51 @@
+/* Рукописный шрифт уже подключён в index.html (preconnect + единый запрос).
+   Здесь — только стили, чтобы не грузить Google Fonts дважды. */
+
+.handwritten {
+  font-family: "Permanent Marker", "Sora", cursive, sans-serif;
+  letter-spacing: 0.01em;
+  line-height: 1.35;
+}
+
+/* Липкая записка. position:relative обязателен — канцелярская кнопка
+   позиционируется относительно карточки, а не случайного предка. */
+.sticky-note {
+  position: relative;
+  background:
+    linear-gradient(158deg, rgba(255, 255, 255, 0.5), transparent 42%),
+    linear-gradient(135deg, #fbf3da 0%, #f2e6bb 58%, #e9d9a6 100%);
+  border: 1px solid rgba(160, 128, 62, 0.45);
+  box-shadow:
+    0 6px 16px rgba(0, 0, 0, 0.42),
+    0 1px 0 rgba(255, 255, 255, 0.6) inset,
+    0 -8px 14px -10px rgba(120, 88, 24, 0.5) inset;
+  color: #3a2a16;
+  border-radius: 12px;
+}
+
+/* Загнутый уголок вместо стикера */
+.sticky-note::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 16px;
+  height: 16px;
+  background: linear-gradient(315deg, #0d1424 50%, rgba(214, 194, 132, 0.9) 50%);
+  border-radius: 0 0 12px 0;
+  opacity: 0.92;
+}
+
+/* Канцелярская кнопка */
+.sticky-note::before {
+  content: "";
+  position: absolute;
+  top: -5px;
+  left: 50%;
+  width: 10px;
+  height: 10px;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: radial-gradient(circle at 34% 30%, #ffd9a0, #d97706 62%, #7c3a05);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.45);
+}
